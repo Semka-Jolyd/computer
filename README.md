@@ -1,2 +1,2 @@
-# computer
+#  comp
 sait dly poznania compuctera
